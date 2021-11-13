@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 7bbe805769ecaab4482c0032be532e88
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: THEYGI
+  fontNames:
+  - THEYGI
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 059e32a062a07b0478bf609df9e68499, type: 3}
+  - {fileID: 12800000, guid: 2bdc3c97ecc200c4f8d892f0779bd96f, type: 3}
+  - {fileID: 12800000, guid: 71db3b28532701c4aa0136e81dea2349, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

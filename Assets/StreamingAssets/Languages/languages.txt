@@ -1,0 +1,8 @@
+﻿English,flag.jpg,/English
+Française,flag.jpg,/French
+Deutsche,flag.jpg,/German
+Español,flag.jpg,/Spanish
+Italiana,flag.jpg,/Italian
+Pусский,flag.jpg,/Russian
+中文,flag.jpg,/Chinese
+日本人,flag.jpg,/Japanese
